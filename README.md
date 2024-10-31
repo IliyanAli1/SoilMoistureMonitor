@@ -1,6 +1,6 @@
 # SoilMoistureMonitor
 
-![20240718_140141](https://github.com/user-attachments/assets/d7fe9447-e5d8-42d7-8d52-247522ab9864)
+![IMG_5811](https://github.com/user-attachments/assets/213d0473-e7bf-4995-ae23-8976ac3e60ad)
 
 The Plant Soil Moisture Monitor is designed to help maintain optimal soil moisture levels for plants. By using the ESP32 microcontroller and a capacitive soil moisture sensor, the device reads real-time moisture levels, making it ideal for indoor and outdoor plants that require regular monitoring.
 
