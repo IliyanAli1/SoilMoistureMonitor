@@ -13,7 +13,7 @@ Easy Setup: Simple hardware connections and a user-friendly code structure for b
 
 **Components**
 
-ESP32 Microcontroller: Handles sensor data, processing, and (optional) communication.
+ESP32 Microcontroller: Handles sensor data, processing, and (optional) communication. \n
 Capacitive Soil Moisture Sensor: Measures soil moisture without corroding, unlike resistive sensors.
 Power Source: USB or battery power (if portable).
 Next Steps/ Improvement: Wi-Fi/Bluetooth Module: Use the ESP32’s built-in module to send notifications.
