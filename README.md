@@ -7,15 +7,21 @@ The Plant Soil Moisture Monitor is designed to help maintain optimal soil moistu
 **Features**
 
 Real-Time Moisture Monitoring: Continuously checks soil moisture levels.
+
 Alerts and Notifications: (Optional) Sends alerts via Bluetooth or Wi-Fi when soil moisture is low.
+
 Low-Power Mode: Configured for low power consumption to extend battery life if used with portable power sources.
+
 Easy Setup: Simple hardware connections and a user-friendly code structure for beginners and advanced users.
 
 **Components**
 
-ESP32 Microcontroller: Handles sensor data, processing, and (optional) communication. \n
+ESP32 Microcontroller: Handles sensor data, processing, and (optional) communication.
+
 Capacitive Soil Moisture Sensor: Measures soil moisture without corroding, unlike resistive sensors.
+
 Power Source: USB or battery power (if portable).
+
 Next Steps/ Improvement: Wi-Fi/Bluetooth Module: Use the ESP32’s built-in module to send notifications.
 
 ![FEA072A2-04BF-4B80-A39E-3E009A6FDBEF](https://github.com/user-attachments/assets/097503b2-f93a-40e1-bed8-fa5c8f2770f6)
